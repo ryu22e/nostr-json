@@ -1,4 +1,4 @@
 # nostr-json
-JSON file for [Nostr](https://nostr.com/) domain authentication.
+JSON file for [Nostr](https://nostr.com/) domain authentication(NIP-05).
 
 My public key: `npub1hqmrddql4em63chfs02x8cx86alrdss9m4kxevpjzwwgctj559aq0rp6cw`
